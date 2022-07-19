@@ -1,0 +1,53 @@
+<body>
+  
+
+<div class="container">
+<form [formGroup]="productForm" (ngSubmit)="addProduct()" autocomplete="off">
+  <h2 class="text-center text-primary">Add Product</h2>
+  <br>
+
+
+  <label for="">Title:</label>
+  <div class="form-group">
+  <input [class.is-invalid]="productForm.get('productName')?.errors && productForm.get('productName')?.touched"
+  type="text" class="form-control title" formControlName="productName" placeholder="Title" value="productName">
+
+  <div *ngIf="productForm.get('productName')?.hasError('required')" class="invalid-feedback">Please enter a title</div>
+  <div *ngIf="productForm.get('productName')?.hasError('minlength')" class="invalid-feedback">Title must be at least 4 characters</div>
+  <div *ngIf="productForm.get('productName')?.hasError('maxlength')" class="invalid-feedback">Title max length is 30 characters</div>
+
+</div>
+
+
+<label for="">Description:</label>
+<div class="form-group">
+  <textarea  [class.is-invalid]="productForm.get('productDescription')?.errors && productForm.get('productDescription')?.touched"
+  type="text-area" class="form-control Description" formControlName="productDescription" placeholder="Description" value="Description"></textarea> 
+
+ 
+  <div *ngIf="productForm.get('productDescription')?.hasError('required')" class="invalid-feedback">Please enter a description</div>
+  <div *ngIf="productForm.get('productDescription')?.hasError('minlength')" class="invalid-feedback">Description must be at least 10 characters</div>
+  <div *ngIf="productForm.get('productDescription')?.hasError('maxlength')" class="invalid-feedback">Description max length is 100 characters</div>
+
+</div>
+
+
+<label for="">Price:</label>
+<div class="form-group">
+  <input min="0" max="5000" [class.is-invalid]="productForm.get('price')?.errors && productForm.get('price')?.touched"
+  type="number" class="form-control price" formControlName="price" placeholder="0" value="price">
+   <div *ngIf="productForm.get('price')?.hasError('required')" class="invalid-feedback">Please enter a price</div>
+ 
+</div>
+
+</form>
+
+
+  <div class="form-group text-center ">
+    <button [disabled]="productForm.invalid" class="btn btn-success mr-2 buttons" type="submit" (click)="addProduct()">Next</button>
+    <button class="btn btn-default mr-2 buttons" type="button" (click)="cancel()">Cancel</button>
+  </div>
+
+
+</div>     
+</body>

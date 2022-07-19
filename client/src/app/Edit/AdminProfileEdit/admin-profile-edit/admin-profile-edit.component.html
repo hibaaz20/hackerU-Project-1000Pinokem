@@ -1,0 +1,89 @@
+<body>
+  
+
+<div class="container bootstrap snippets bootdey" *ngIf="adminRepository">
+  <h1 class="label">Edit Profile</h1>
+    <hr>
+
+<div class="row" >
+
+    <div class="col-md-3">
+      <div class="text-center">
+          <img class="card-img-top img-thumbnail" src="{{adminRepository?.photoUrl || './assets/user.png'}}"
+          alt="{{adminRepository?.userName}}">
+
+      
+        <h6 class="upload-text">Upload a different photo...</h6>
+        
+        <input type="file" class="form-control"  ng2FileSelect [uploader]="uploader">
+      
+      </div>
+
+  
+
+        <button type="button" class="btn btn-success btn-s inline" (click)="uploader.uploadAll()"
+          [disabled]="!uploader.getNotUploadedItems().length">
+          <span class="fa fa-upload "></span> Upload
+        </button>
+
+        <button 
+        [disabled]="!adminRepository.photo"
+        (click)="deletePhoto(this.admin.userName, adminRepository.photo.id)"
+        class="btn btn-sm btn-danger trash"
+        ><i class="fa fa-trash"></i>
+        </button>
+    
+
+</div>
+      
+
+  
+    <div class="col-md-9 personal-info">
+      <div class="alert alert-info alert-dismissable">
+          <strong>Information:</strong>
+          You have made changes. any unsaved changes will be lost
+      </div>
+
+      <h3>Login Info</h3>
+
+      <form #securityForm="ngForm" id="securityForm">
+   
+        <div class="form-group">
+          <label class="col-lg-3 control-label">Username:</label>
+          <div class="col-lg-8">
+            <input class="form-control" type="text" [(ngModel)]="adminRepository.userName" name="userName" value="{{adminRepository?.userName}}">
+            <div class="card-footer">
+             <button [disabled]="securityForm.pristine" form="securityForm" type="submit" (click)="logout()" routerLink="/home" class="btn btn-success btn-block">Change Username</button>
+
+          </div>
+          
+          </div>
+        </div>
+    </form>
+
+    <h3>Personal info</h3>
+
+        <form #editForm="ngForm" (ngSubmit)="updateAdmin()" id="editForm">
+
+        <div class="form-group">
+          <label class="col-lg-3 control-label">Email:</label>
+          <div class="col-lg-8">
+            <input class="form-control" type="text"  [(ngModel)]="adminRepository.email" name="email" value="{{adminRepository?.email}}">
+          </div>
+        </div>
+
+      
+
+        <div class="card-footer">
+          <button [disabled]="editForm.pristine" form="editForm" type="submit"  class="btn btn-success btn-block">Save Changes</button>
+      </div>
+      
+      </form>
+   
+    </div>
+  </div>
+</div>
+<hr>
+</body>
+
+

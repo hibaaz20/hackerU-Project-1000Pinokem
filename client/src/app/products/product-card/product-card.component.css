@@ -1,0 +1,106 @@
+container:hover .title {
+  top: 90px;
+}
+
+.button {
+  position: absolute;
+  width: 150px;
+  top: 180px;
+  text-align: center;
+  opacity: 0;
+  transition: opacity .35s ease;
+  margin-left: 20%;
+  margin-top: 40px;
+  background-color:rgb(0, 0, 0);
+  border-color:rgb(0, 0, 0);
+  color: white;
+}
+
+.container:hover .button {
+  opacity: 1;
+}
+
+
+
+body {
+  padding: 2rem 0rem;
+}
+
+
+.icon{
+  font-size: 1.4rem;
+  float: right;
+  color: red;
+  margin: 5px;
+}
+.icon:hover{
+  transform: scale(1.2);
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+  opacity: 1;
+}
+
+.cart{
+  background-color: rgb(40, 180, 8);
+  border-color: white;
+  float: inline-end;
+  margin-top: 15px;
+
+}
+
+.cart:hover{
+  transform: scale(1.1);
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+  opacity: 1;
+}
+
+.remove{
+  border-color: red;
+
+}
+
+.Edit{
+  border-color: gray;
+}
+.Edit:hover{
+  transform: scale(1.1);
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+  opacity: 1;
+}
+.card:hover img {
+  transform: scale(1.2);
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+  opacity: 1;
+}
+
+.card img {
+  transform: scale(1);
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+  opacity: 0.7;
+}
+
+.card-img-wrapper {
+  overflow: hidden;
+  position: relative;
+}
+
+.card-title{
+  margin-top: 3%;
+}
+
+@media screen and (max-width: 1000px) {
+  .detailsButton{
+     width:70%;
+     font-size: 13px;
+   }
+
+   .cart{
+    font-size: 13px;
+    margin-top: 25px;
+   }
+ 
+}

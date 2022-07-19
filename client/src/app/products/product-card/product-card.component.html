@@ -1,0 +1,32 @@
+<div class="container">
+<div class="card mb-4">
+  <div class="card-img-wrapper">
+
+  <img height="250px" class="card-img-top" [src]="product.photoUrl || './assets/default-img.png'" alt="{{product.productName}}">
+ 
+  <div >	
+    <button type="button" class="button btn btn-info detailsButton" routerLink="/Productdetails/{{product.id}}">Product Details</button>
+  </div>
+  
+  
+  <div class="card-body">
+          <h4 class="card-title">{{product.productName}}</h4>
+
+          <p class="card-text">
+            {{product.productDescription}}
+          </p>
+
+          <div class="buy d-flex justify-content-between align-items-center">
+            
+            <div class="price text-success"> <h5 class="mt-4">${{product.price}} </h5> </div>
+            <button *ngIf="(currentAdmin$ | async ) as admin" routerLink="/editProduct/{{product.id}}" class="btn btn-primary">
+              Edit
+            </button>
+            
+             <a *ngIf="isInCart == false && !(currentAdmin$ | async )" href="#" class="btn btn-danger cart"  (click)="addToCart(product, $event)"><i class="fa fa-shopping-cart"></i> Add to Cart</a>
+             <a *ngIf="isInCart" class="btn btn-danger mt-3 remove" (click)="removeFromCart(product, this.user.userName)">Remove</a>
+                        
+          </div>
+      </div>
+    </div>
+</div>

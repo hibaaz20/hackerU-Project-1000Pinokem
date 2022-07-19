@@ -1,0 +1,30 @@
+body{
+  min-height: 100vh;
+}
+
+.cards{
+    margin-top: 2%;
+    width: 100%;
+}
+
+.input{
+  width: 25%;
+  margin-left: 36%;
+  margin-top: 2%;
+}
+
+.search{
+  margin-top: 2%;
+
+}
+
+.pag{
+  margin-top: 30px;
+}
+
+@media screen and (max-width: 1300px) {
+  .col-md-2{
+      width:25%;
+   }
+}
+

@@ -1,0 +1,17 @@
+[
+    {
+        "UserName": "hiba",
+        "Email": "hiba@123.com",
+        
+        "City": "Greenbush",
+        "AdminProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/0.jpg",
+                "IsMain": true
+            }
+        ]
+    }
+ 
+]
+
+    

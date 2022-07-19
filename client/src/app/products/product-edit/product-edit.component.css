@@ -1,0 +1,47 @@
+
+body{
+  min-height: 100vh;
+}
+
+.img-thumbnail {
+    margin: 25px;
+    height: 85%;
+    width: 85%;
+  }
+  
+  .card-body {
+    padding: 0px 25px;
+  }
+  
+  .card-footer {
+    padding: 10px 15px;
+    background-color: white;
+    border-top: none;
+  }
+  
+  .ngx-gallery {
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+
+ h4{
+     margin-bottom: 10px;
+     margin-top: 20px;
+
+ } 
+
+.save{
+   width: 150px;
+   margin-left: 20px;
+}
+
+.price{
+  width: 70px;
+  height: 30px;
+}
+
+.form-group{
+  margin-left: 10px;
+}
+
+ 

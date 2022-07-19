@@ -1,0 +1,65 @@
+<body>
+
+<h2 class="text">Orders</h2>
+
+
+<div class="card-body empty" *ngIf="orders.length == 0">
+  <div class="col-sm-12 empty-cart-cls text-center">
+
+      <h4>This user have no orders yet</h4>
+     
+
+    <div class="box">
+      <img src="./assets/box.png" alt="" width="10%">
+    </div>
+
+  </div>
+</div>
+
+<div class="container"  *ngIf="orders.length > 0">
+<table>
+  <tr>
+    <th>Username</th>
+    <th>OrderId</th>
+    <th>Product Name</th>
+    <th>Product Id</th>
+    <th>Price</th>
+    <th>Quantity</th>
+    <th>Total</th>
+    <th>OrderDate</th>
+
+
+  </tr>
+
+  <tr *ngFor="let order of orders">
+    <td>{{order.customer.userName}}</td>
+    <td>{{order.orderId}}</td>
+    <td> <a href="" routerLink="/Productdetails/{{order.product.id}}">{{order.product.productName}}</a></td>
+    <td>{{order.product.id}}</td>
+    <td>$ {{order.product.price}}</td>
+    <td>{{order.quantity}}</td>
+    <td class="total">$ {{order.total}}</td>
+    <td>{{order.orderDate | date: 'short'}}</td>
+  </tr>
+
+</table>
+</div>
+
+<div class="d-flex justify-content-center pagination" *ngIf="pagination">
+
+  <pagination
+  [boundaryLinks]="true"
+  [totalItems]="pagination.totalItems"
+  [itemsPerPage]="pagination.itemsPerPage"
+  [(ngModel)]="pagination.currentPage"
+  (pageChanged)="pageChanged($event)"
+  previousText="&lsaquo;"
+  nextText="&rsaquo;"
+  firstText="&laquo;"
+  lastText="&raquo;"
+  >
+
+</pagination>
+</div>
+
+</body>

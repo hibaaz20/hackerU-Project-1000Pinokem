@@ -1,0 +1,92 @@
+<nav class="navbar navbar-expand-lg  sticky-top ">
+    
+     <a class="navbar-brand" href="/">
+            <div class="logo-image">
+                  <img src="./assets/logo.png" class="img-fluid" alt="The shop logo">
+            </div>
+      </a>
+ 
+      
+      <div class="container" >
+       <ul class="navbar-nav mr-auto" *ngIf="!(currentAdmin$ | async)">
+        <ng-container>
+          <li class="nav-item">
+            <a class="nav-link text-dark" routerLinkActive="active" routerLink="/home"><span class="fa fa-home"></span> Home</a>
+          </li>
+          <li class="nav-item">
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-dark" routerLinkActive="active" routerLink="/shoppingCart"><span class="fa fa-shopping-cart"></span> Shopping Cart</a>
+          </li>
+          <li class="nav-item" *ngIf="((currentUser$ | async))">
+            <a class="nav-link text-dark" routerLinkActive="active" routerLink="/myorders"><i class="fa fa-first-order" aria-hidden="true"></i> My Orders</a>
+          </li>
+        </ng-container>
+  
+          
+      </ul>
+     
+
+      
+        <ul class="navbar-nav AdminNavbar " *ngIf="(currentAdmin$ | async)">
+         <ng-container>
+          <li class="nav-item">
+            <a class="nav-link text-dark" routerLinkActive="active" routerLink="/home"><span class="fa fa-home"></span> Home</a>
+          </li>
+           <li class="nav-item">
+             <a class="nav-link text-dark" routerLinkActive="active" routerLink="/add-product"><span class="fa fa-plus"></span> Add product</a>
+           </li>
+           <li class="nav-item">
+             <a class="nav-link text-dark" routerLinkActive="active" routerLink="/customers"><span class="fa fa-user"></span> Users</a>
+           </li>
+           <li class="nav-item">
+             <a class="nav-link text-dark" routerLinkActive="active" routerLink="/orders"><span class="fa fa-list"></span> Orders</a>
+           </li>
+         </ng-container>
+   
+      
+       </ul>
+ 
+     
+      
+   <form  *ngIf="!((currentUser$ | async) || (currentAdmin$ | async))" #loginForm="ngForm" class="form-inline mt-2 mt-md-0 UserDetails"  (ngSubmit)="login()" autocomplete="off">
+      
+      <input name="username" [(ngModel)]="model.username" class="form-control mr-sm-2" type="text"
+      placeholder="Username">
+     
+      <input name="password" [(ngModel)]="model.password" class="form-control mr-sm-2" type="password"
+      placeholder="Password" >
+
+      <button class="btn btn-outline-success my-2 my-sm-0"  type="submit">Login</button>
+    
+      <a class="nav-link SignUpButton" href="#" (click)="registerToggle()" routerLinkActive="active" routerLink="/register">Sign up </a>
+  </form>
+
+
+     </div>
+
+     
+      
+
+     <div class="dropdown UserDropdown" *ngIf="(currentAdmin$ | async ) as admin" dropdown>
+      <a class="dropdown-toggle nav-item" href="javascript:void(0)"  dropdownToggle> Welcome {{admin.userName | titlecase }} </a>
+        
+      <div class="dropdown-menu mt-3" *dropdownMenu>
+        <a class="dropdown-item" href="#" routerLink="/Adminprofile/edit">Edit Profile</a>
+        <a class="dropdown-item" href="#" (click)="adminLogout()"> Logout</a>
+      </div>
+    </div> 
+  
+
+  <div class="dropdown UserDropdown" *ngIf="currentUser$ | async as user" dropdown>
+    <a class="dropdown-toggle nav-item" href="javascript:void(0)" dropdownToggle > Welcome {{user.userName  | titlecase}} </a>
+      
+    <div class="dropdown-menu mt-3" *dropdownMenu>
+      <a class="dropdown-item" href="#" routerLink="/profile/edit">Edit Profile</a>
+      <a class="dropdown-item" href="#" (click)="logout()"> Logout</a>
+    </div>
+  </div> 
+</nav>
+  
+
+

@@ -1,0 +1,183 @@
+.notFound{
+    text-align: center;
+    color: #444444;
+    background: #FFFFFF;
+    text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
+    color: #444444;
+    background: rgb(249, 249, 236);
+    margin-top: 3%;
+}
+.cards{
+    margin-top: 15px;
+    position: flex;
+    float: left;
+    width: 20%;
+}
+
+.firstPhotos{
+    padding-left: 25px;
+}
+
+.row {
+    max-width: 100%
+    
+}
+
+
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+.column {
+    flex: 33.33%;
+    padding: 10px;
+    
+}
+
+
+body{
+background-color:rgb(249, 249, 236);
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 2%;
+}
+
+
+.pag{
+    margin-top: 30px;
+}
+
+
+
+.hover figure:hover img {
+	opacity: 1;
+	-webkit-animation: flash 1.5s;
+	animation: flash 1.5s;
+}
+@-webkit-keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+
+
+li{
+    padding: 5px;
+
+}
+
+.searchForm{
+    margin-left: 40%;
+
+}
+
+
+.search-button{
+    height: 34px;
+    
+}
+.search{
+    width: 400px;
+    border-radius: 25px;
+
+}
+
+
+.btn-group label{
+    margin-right: 15px;
+}
+
+.filter{
+    border: 1px solid rgb(138, 219, 111);
+    background-color: rgb(250, 250, 250);
+    color: black;
+
+}
+
+
+.searchSubmit {
+    width: 3.5rem;
+    height: 2.8rem;
+    margin-left: -3.5rem;
+    background: none;
+    border: none;
+    outline: none;
+  }
+  
+
+.Price{
+    color: black;
+    border-color: rgb(239, 192, 0);
+    background-color: rgb(250, 250, 250);
+
+}
+
+.reset{
+    background-color: rgb(250, 250, 250);
+    color: black;
+    border-color: rgb(138, 229, 225);
+
+}
+
+.created{
+    color: black;
+
+}
+   
+.form1{
+    margin-left: 20%;
+}
+
+@media (max-width:1300px){
+    .cards {
+        width: 50%;
+    }
+    .searchForm{
+        margin-left: 30vw;
+    } 
+    .form1{
+        margin-left:15vw;
+    }
+ 
+}
+
+@media (max-width:900px){
+    .form1{
+        margin-left: 5vw;
+    }
+    .col-md-4{
+        margin-right: 30%;
+        margin-top: 2%;
+    }
+}
+
+@media (max-width:1000px){
+    .searchForm{
+        margin-left: 20vw;
+
+    } 
+    .col-md-4{
+        margin-left: 10%;
+        margin-top: 2%;
+    }
+   
+}
+ 
+
+
+
+

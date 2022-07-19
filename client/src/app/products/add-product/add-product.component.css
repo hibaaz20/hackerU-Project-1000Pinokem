@@ -1,0 +1,63 @@
+body{
+  min-height: 100vh;
+}
+
+.img-thumbnail {
+  margin: 25px;
+  height: 85%;
+  width: 85%;
+}
+
+.card-body {
+  padding: 0px 25px;
+}
+
+.card-footer {
+  padding: 10px 15px;
+  background-color: white;
+  border-top: none;
+}
+
+.title{
+  height: 10%;
+  block-size: 50px;
+  font-size: larger;
+}
+.Description{
+  max-block-size: 150px;
+  font-size: larger;
+
+}
+.price{
+  width: 10%;
+  block-size: 50px;
+  font-size: larger;
+
+}
+
+.buttons{
+  font-size: 20px;
+  width: 10%;
+  margin-top: 5%;
+  
+}
+
+.invalid-feedback{
+  font-size: 17px;
+}
+.container{
+  margin-top: 50px;
+}
+
+.form-group{
+  display: inline;
+  margin-left: 30%;
+
+}
+
+@media screen and (max-width: 1000px) {
+  .buttons{
+      width:25%;
+   }
+ 
+}

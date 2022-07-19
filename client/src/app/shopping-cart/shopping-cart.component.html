@@ -1,0 +1,137 @@
+<main>
+<div class="container" >
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-md-9">
+            <div class="ibox">
+                <div class="ibox-title">
+                    <span class="pull-right">(<strong>{{items}}</strong>) items</span>
+                    <h5>Items in your cart</h5>
+                </div>
+
+                <div *ngIf="user == null">
+                    <div class="card-body cart">
+                        <div class="col-sm-12 empty-cart-cls text-center">
+                            <img src="https://i.imgur.com/dCdflKN.png" width="130" height="130" class="img-fluid mb-4 mr-3">
+                            <h4>Sign up or Login to add products to your cart</h4>
+                          
+                            <a href="#" style="width: 100px;" class="btn btn-primary cart-btn-transform m-3" routerLink="/register">Sign Up</a>
+                            
+                        
+                        </div>
+                    </div>
+                </div>
+                
+                <div  *ngIf="empty">
+                    <div class="container-fluid ">
+                        <div class="row">
+                        
+                           <div class="col-md-12">
+                           
+                                   <div class="card">
+                               
+                               <div class="card-body cart">
+                                       <div class="col-sm-12 empty-cart-cls text-center">
+                                           <img src="https://i.imgur.com/dCdflKN.png" width="130" height="130" class="img-fluid mb-4 mr-3">
+                                           <h4>Your Cart is Empty</h4>
+                                          
+                                        <div>
+                                            <a href="#" class="btn btn-primary cart-btn-transform m-3 " routerLink="home">Continue Shopping</a>
+                                        </div>
+                                       
+                                       </div>
+                               </div>
+                       </div>
+                               
+                           
+                    </div>
+                        
+                </div>
+                       
+             </div>
+        </div>
+
+                <div *ngFor="let product of products">
+                   
+                    <div class="ibox-content">
+                    <div class="table-responsive">
+                        <table class="table shoping-cart-table">
+                            <tbody>
+                            <tr>
+                                <td >
+                                  <img width="90" [src]="product.photoUrl" alt="">
+                                </td>
+                                <td class="desc">
+                                    <h3>
+                                    <a href="#" class="text-navy" routerLink="/Productdetails/{{product.id}}">
+                                        {{product.productName}}
+                                    </a>
+                                    </h3>
+                                   
+
+                                    <div class="m-t-sm remove">
+                                        <a href="javascript:void(0)" class="text-muted" (click)="remove(product)"><i class="fa fa-trash"></i> Remove item</a>
+                                    </div>
+                                </td>
+
+                                <td style="font-size: 18px">
+                                    <div class="price">
+                                   ${{product.price}}
+                                   </div>
+                                </td>
+                               
+                                <td width="65" >
+                                   
+                                        <div class="quantity buttons_added form-group">
+                                          
+                                        <input (click)="decQuantity(product)" type="button" value="-" class="minus">
+                                        <input readonly id="quantity" name="quantity" min="1" max="5"   type="number"  id="quantity" value="{{product.quantity}}" class="input-text qty text" size="4" >
+                                        <input  (click)="incQuantity(product)" type="button" value="+" class="plus">
+                                    </div> 
+                            
+                                </td>
+                                  
+                                <td>
+                                    <div class="price">
+                                    <h4 >
+                                    ${{product.total}}
+                                    </h4>
+                                    </div>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table> 
+                    </div>
+
+                </div>
+                </div>
+           
+              
+            </div>
+
+        </div>
+        <div class="col-md-3">
+              <div class="ibox">
+                <div class="ibox-title">
+                    <h5>Cart Summary</h5>
+                </div>
+                <div class="ibox-content">
+                    <span>
+                        Total
+                    </span>
+                    <h2 class="font-bold" >
+                       ${{totalSum}}
+                    </h2>
+
+               
+                  <button  class="button-25" role="button" (click)="addOrder(products)">BUY</button> 
+                  
+                  <hr>
+
+                </div>
+            </div>
+         </div>
+        </div>
+    </div>
+</div>
+</main>

@@ -1,0 +1,328 @@
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\appsettings.json
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.exe
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.deps.json
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\refint\API.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\ref\API.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hiba-user\Desktop\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\appsettings.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.exe
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.deps.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\refint\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\obj\Debug\net6.0\ref\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Data\Json\AdminSeedData.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Data\Json\products.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\HackerU-FinalProject-Hiba\api\bin\Debug\net6.0\Data\Json\UserSeedData.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\appsettings.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Data\Json\AdminSeedData.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Data\Json\products.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Data\Json\UserSeedData.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\API.exe
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\API.deps.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\refint\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hackeru-final-project-hiba-master\api\obj\Debug\net6.0\ref\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\appsettings.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Data\Json\AdminSeedData.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Data\Json\products.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Data\Json\UserSeedData.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\API.exe
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\API.deps.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\refint\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master\api\obj\Debug\net6.0\ref\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\appsettings.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Data\Json\AdminSeedData.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Data\Json\products.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Data\Json\UserSeedData.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\API.exe
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\API.deps.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\refint\API.dll
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.pdb
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Hiba-user\OneDrive\שולחן העבודה\hibaaz20-FinalProject-Hiba-master-master\api\obj\Debug\net6.0\ref\API.dll

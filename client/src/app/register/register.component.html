@@ -1,0 +1,84 @@
+<form>
+  
+    <div class="signupFrm">
+        <form action="" class="form"  [formGroup]="registerForm" (ngSubmit)="register()" autocomplete="off">
+          <h1 class="title">Sign up</h1>
+          
+          <label for="" class="label">Email</label>
+          <div class="form-group">
+
+            <input [class.is-invalid]="registerForm.get('email')?.errors && registerForm.get('email')?.touched"
+             type="email" class="form-control" formControlName="email" placeholder="Email" value="email">
+
+             <div *ngIf="registerForm.get('username')?.hasError('required')" class="invalid-feedback">Please enter an email</div>
+             <div *ngIf="registerForm.get('username')?.hasError('minlength')" class="invalid-feedback">Email must be at least 4 characters</div>
+             <div *ngIf="registerForm.get('username')?.hasError('maxlength')" class="invalid-feedback">Email max length is 30 characters</div>
+             <div *ngIf="registerForm.get('username')?.hasError('email')" class="invalid-feedback">Please enter an email</div>
+          
+
+            </div>
+
+    
+            <label for="" class="label">Username</label>
+            <div class="form-group">
+
+            <input [class.is-invalid]="registerForm.get('username')?.errors && registerForm.get('username')?.touched"
+            type="text" class="form-control" formControlName="username"  placeholder="Username">
+
+            <div *ngIf="registerForm.get('username')?.hasError('required')" class="invalid-feedback">Please enter a username</div>
+            <div *ngIf="registerForm.get('username')?.hasError('minlength')" class="invalid-feedback">Username must be at least 4 characters</div>
+            <div *ngIf="registerForm.get('username')?.hasError('maxlength')" class="invalid-feedback">Username max length is 10 characters</div>
+         
+          </div>
+
+
+          <label for="" class="label">City</label>
+          <div class="form-group">
+
+            <input [class.is-invalid]="registerForm.get('city')?.errors && registerForm.get('city')?.touched"
+            type="text" class="form-control" formControlName="city" placeholder="City">
+
+            <div *ngIf="registerForm.get('city')?.hasError('required')" class="invalid-feedback">Please enter a city</div>
+            <div *ngIf="registerForm.get('city')?.hasError('minlength')" class="invalid-feedback">City must be at least 4 characters</div>
+            <div *ngIf="registerForm.get('city')?.hasError('maxlength')" class="invalid-feedback">City max length is 10 characters</div>
+
+
+          </div>
+    
+          <label for="" class="label">Password</label>
+          <div class="form-group">
+
+            <input [class.is-invalid]="registerForm.get('password')?.errors && registerForm.get('password')?.touched"
+            type="password" class="form-control" formControlName="password" placeholder="Password">
+
+            <div *ngIf="registerForm.get('password')?.hasError('required')" class="invalid-feedback">Please enter a password</div>
+            <div *ngIf="registerForm.get('password')?.hasError('minlength')" class="invalid-feedback">Password must be at least 4 characters</div>
+            <div *ngIf="registerForm.get('password')?.hasError('maxlength')" class="invalid-feedback">password max length is 10 characters</div>
+        
+          </div>
+    
+
+          <label for="" class="label">Confirm Password</label>
+          <div class="form-group">
+
+            <input [class.is-invalid]="registerForm.get('confirmPassword')?.errors && registerForm.get('confirmPassword')?.touched"
+            type="password"class="form-control" formControlName="confirmPassword" placeholder="Confirm Password">
+
+            <div *ngIf="registerForm.get('confirmPassword')?.hasError('isMatching')" class="invalid-feedback">Passwords do not match</div>
+            
+          </div>
+        
+        <div class="form-group text-center footer-buttons">
+
+            <button [disabled]="registerForm.invalid" class="btn btn-success mr-2" type="submit" >Sign up</button>
+            <button class="btn btn-default mr-2" type="button" (click)="cancel()" routerLinkActive="active" routerLink="/home">Cancel</button>
+    
+          </div>
+    
+        </form>
+      </div>
+
+    
+  
+  
+  </form>

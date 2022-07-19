@@ -1,0 +1,128 @@
+[
+    {
+        "UserName": "Lisa",
+        "Email": "female@ss.com",
+        
+        "City": "Greenbush",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/22.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "merry",
+        "Email": "mmmg@ss.com",
+       
+        "City": "Haifa",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/21.jpg",
+                "IsMain": true
+            }
+        ]
+    },{
+        "UserName": "dias",
+        "Email": "gfgfgf@ss.com",
+        
+        "City": "Tel Aviv",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/2.jpg",
+                "IsMain": true
+            }
+        ]
+    },{
+        "UserName": "john",
+        "Email": "gsg@ss.com",
+        
+        "City": "Haifa",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/men/5.jpg",
+                "IsMain": true
+            }
+        ]
+    },{
+        "UserName": "karen",
+        "Email": "dfu@ss.com",
+        
+        "City": "Greenbush",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/18.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "aaaaaa",
+        "Email": "oi@ss.com",
+        "City": "Greenbush",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/17.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "rahel",
+        "Email": "kj@ss.com",
+        "City": "NYC",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/16.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "selen",
+        "Email": "h@ss.com",
+        "City": "Greenbush",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/15.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "hend",
+        "Email": "21@ss.com",
+        "City": "Greenbush",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/14.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "sandy",
+        "Email": "as@ss.com",
+        "City": "Greenbush",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/10.jpg",
+                "IsMain": true
+            }
+        ]
+    },
+    {
+        "UserName": "lili",
+        "Email": "sa@ss.com",
+        "City": "Haifa",
+        "CustomerProfilePhoto": [
+            {
+                "Url": "https://randomuser.me/api/portraits/women/11.jpg",
+                "IsMain": true
+            }
+        ]
+    }
+
+]
+
+    

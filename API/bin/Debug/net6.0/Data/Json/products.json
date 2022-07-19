@@ -1,0 +1,51 @@
+[
+    {
+    "Id": 1,
+    "ProductName": "Black crystal tree",
+    "ProductDescription": "black crystal tree",
+    "Price": 28,
+    "ProductPhotos": [
+      {
+          "Url": "../assets/Products/blackCrystalTree.png",
+          "isMain": true
+      }
+  ]
+  },
+  {
+    "Id": 2,
+    "ProductName": "Wood Bowls",
+    "ProductDescription": "Wood Bowls",
+    "Price": 15,
+    "ProductPhotos": [
+      {
+          "Url": "../assets/Products/Wood_Bowls.png",
+          "isMain": true
+      }
+  ]
+  },
+  {
+    "Id": 3,
+    "ProductName": "Glass Box",
+    "ProductDescription": "Glass Box",
+    "Price": 10,
+    "ProductPhotos": [
+      {
+          "Url": "../assets/Products/glass_box.jpeg",
+          "isMain": true
+      }
+  ]
+  },
+  {
+    "Id": 4,
+    "ProductName": "Golden Spoon",
+    "ProductDescription": "Golden Spoon",
+    "Price": 80,
+    "ProductPhotos": [
+      {
+          "Url": "../assets/Products/golden.png",
+          "isMain": true
+      }
+  ]
+  }
+ 
+]

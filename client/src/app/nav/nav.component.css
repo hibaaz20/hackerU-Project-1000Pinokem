@@ -1,0 +1,51 @@
+.navbar{
+    margin: 0 auto;
+    background-color:rgb(237, 245, 235);
+    border-bottom: 0.5px solid rgb(193, 210, 200);
+}
+
+
+.logo-image img{
+    
+    max-width: 100%;
+    height: auto;
+    width: 65%; 
+      
+    border-radius: 40%;
+    overflow: visible;
+    margin-top: -6px;
+    
+}
+
+.SignUpButton {
+    display:inline-block;
+    border: 2px solid green;
+    color: black ;
+    font-size: 11px;
+    text-transform: uppercase;
+    margin-left: 10px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;    
+    
+}
+      
+.LoginButton{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.UserDetails{
+    margin-left: 10%;
+}
+
+.UserDropdown{
+    margin-right: 5%;
+}
+
+.nav-item{
+    color: black;
+    padding: 20px;
+    font-size: 18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

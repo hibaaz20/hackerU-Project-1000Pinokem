@@ -1,0 +1,87 @@
+<body>
+
+<div class="row" *ngIf="product">
+    <div class="col-4">
+      <h2>Edit Product</h2>
+    </div>
+
+    <div class="col-8">
+  
+     <div class="alert alert-info" *ngIf="editForm.dirty">
+  
+         <strong>Information</strong>
+         You have made changes. any unsaved changes will be lost
+  
+     </div>
+    </div>
+    <div class="col-4">
+        <div class="card">
+            <img class="card-img-top img-thumbnail" src="{{product.photoUrl || './assets/default-img.png'}}"
+                alt="{{product.productName}}">
+            
+        </div>
+    </div>
+    <div class="col-8">
+      <tabset #productTabs class="product-tabset">
+        <tab heading="{{product.productName}}">
+
+          
+          <form  #editForm="ngForm" (ngSubmit)="updateProduct()" id="editForm" autocomplete="off">
+          
+            <form [formGroup]="productForm">
+                  <label class="col-lg-3 control-label">Title:</label>
+                  <div class="form-group">
+                    <input [class.is-invalid]="productForm.get('productName')?.errors && productForm.get('productName')?.touched"
+                    type="text" class="form-control title" formControlName="productName" placeholder="{{product.productName}}" value="{{product.productName}}">
+                  
+                    <div *ngIf="productForm.get('productName')?.hasError('required')" class="invalid-feedback">Please enter a title</div>
+                    <div *ngIf="productForm.get('productName')?.hasError('minlength')" class="invalid-feedback">Title must be at least 4 characters</div>
+                    <div *ngIf="productForm.get('productName')?.hasError('maxlength')" class="invalid-feedback">Title max length is 30 characters</div>
+                  </div>
+             </form>
+          
+             
+            
+            <form [formGroup]="productForm">
+              <label class="col-lg-3 control-label">Description:</label>
+              <div class="form-group">
+                <textarea  [class.is-invalid]="productForm.get('productDescription')?.errors && productForm.get('productDescription')?.touched"
+                type="text" class="form-control title" formControlName="productDescription" placeholder="{{product.productDescription}}" value="{{product.productDescription}}" >
+                </textarea>
+
+              <div *ngIf="productForm.get('productDescription')?.hasError('required')" class="invalid-feedback">Please enter a description</div>
+              <div *ngIf="productForm.get('productDescription')?.hasError('minlength')" class="invalid-feedback">Description must be at least 10 characters</div>
+              <div *ngIf="productForm.get('productDescription')?.hasError('maxlength')" class="invalid-feedback">Description max length is 100 characters</div>
+
+              </div>
+         </form>
+      
+                
+            <form [formGroup]="productForm">
+              <label class="col-lg-3 control-label">Price:</label>
+              <div class="form-group">
+                <div> 
+                 $ <input [class.is-invalid]="productForm.get('price')?.errors && productForm.get('price')?.touched"
+                type="number" min="0" max="5000" class="form-control title" formControlName="price" placeholder="{{product.price}}" value="{{product.price}}" class="price">
+
+                <div *ngIf="productForm.get('price')?.hasError('max')" class="invalid-feedback">Max price is 5000</div>
+
+              </div>
+              </div>
+             
+          <div class="card-footer">
+            <button form="editForm"  [disabled]="productForm.invalid" type="submit"  class="btn btn-success">Save Changes</button>
+            <button  type="submit"  class="btn btn-danger ml-3" (click)="remove()">Remove</button>
+        </div>
+         </form> 
+       </form>
+        </tab>
+       
+  
+        <tab heading="Edit Photos">
+          <app-photo-editor [product]="product"></app-photo-editor>
+        </tab>
+      </tabset>
+    </div>
+  </div>
+</body>

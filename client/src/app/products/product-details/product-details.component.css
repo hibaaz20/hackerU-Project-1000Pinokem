@@ -1,0 +1,145 @@
+body{
+  background:rgb(249, 245, 245);
+  min-height: 140vh;
+}
+.container {
+  margin: 0 auto;
+  padding: 15px;
+  background: rgb(249, 245, 245);
+  height:100%;
+  display: flex;
+  position: relative;
+}
+
+.left-column {
+  width: 100%;
+  position: relative;
+  height: 100%;
+  float: left;
+  margin-top: 60px;
+  padding: 0 20px 20px 0;
+
+}
+.ngx-gallery {
+  display: inline-block;
+}
+
+.right-column {
+  width: 100%;
+  margin-top: 60px;
+
+}
+
+h1 {
+  border-bottom: 1px solid #E1E8EE;
+  margin-bottom: 10%;
+}
+.product-description span {
+  font-size: 12px;
+  color: #358ED7;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+h1 {
+  font-weight: 300;
+  font-size: 52px;
+  color: #43484D;
+  letter-spacing: -2px;
+}
+.product-description div{
+  font-size: 18px;
+
+}
+.quantity {
+  margin-top: 40%;
+}
+.product-price{
+  margin-top: 5%;
+  font-size: 23px;
+}
+.total{
+  color: rgb(47, 148, 47);
+  font-weight: 500;
+}
+.qty .count {
+  color: #000;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+  padding: 0 2px;
+  min-width: 35px;
+  text-align: center;
+}
+.qty .plus {
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: top;
+  color: white;
+  width: 30px;
+  height: 30px;
+  font: 30px/1 Arial,sans-serif;
+  text-align: center;
+  border-radius: 50%;
+  }
+.qty .minus {
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: top;
+  color: white;
+  width: 30px;
+  height: 30px;
+  font: 30px/1 Arial,sans-serif;
+  text-align: center;
+  border-radius: 50%;
+  background-clip: padding-box;
+}
+
+.minus:hover{
+  background-color: #717fe0 !important;
+}
+.plus:hover{
+  background-color: #717fe0 !important;
+}
+
+input{  
+  border: 0;
+  width: 2%;
+}
+nput::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input:disabled{
+  background-color:white;
+}
+
+
+.cart-btn{
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 17px;
+  display: inline-block;
+  margin-top: 3%;
+}
+
+.cart-btn:hover {
+  opacity: 0.7;
+}
+
+@media (max-width: 1000px) {
+  .container {
+   display: inline-block;
+  }
+
+  
+}

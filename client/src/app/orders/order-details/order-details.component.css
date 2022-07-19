@@ -1,0 +1,20 @@
+body{
+    min-height: 70vh;
+
+}
+section{
+    margin-top: 1%;
+}
+.lead{
+    color:#137752 ;
+}
+.card{
+    border-color:  #137752 ;
+}
+
+.mx-n5 {
+    background-color: #f2f2f2;
+}
+.fline{
+    margin-left: 4%;
+}

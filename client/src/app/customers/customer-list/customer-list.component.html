@@ -1,0 +1,51 @@
+
+<body>
+  
+<div class="text-center mt-3" style="margin-bottom: 20px;">
+    <h2 >Your matches - {{pagination?.totalItems}} found</h2>
+</div>
+
+  <form #form="ngForm" class="form-inline mb-3" (ngSubmit)="loadCustomers()" autocomplete="off">
+    
+    <div class="form-group input">
+      <input type="search" style="width: 100%;" class="form-control ml-1 inputDiv" id="Input" name="Input" [(ngModel)]="userParams.input">
+    </div>
+    <button type="submit" (click)="isSearched = true" class="btn btn-primary ml-1 search">Search</button>
+
+  </form>
+
+
+<div class="row cards">
+    <div class="col-md-2" *ngFor="let customer of customers">
+        <app-customer-card [customer]="customer"> </app-customer-card>
+    </div>
+  </div>
+  
+
+
+ 
+<div class="row cards" *ngIf="notFound == true">
+  <div>
+      <h4 class="text-center">No Match Found </h4> 
+  </div>
+
+</div> 
+
+
+<div class="d-flex justify-content-center pag" *ngIf="pagination">
+
+    <pagination
+    [boundaryLinks]="true"
+    [totalItems]="pagination.totalItems"
+    [itemsPerPage]="pagination.itemsPerPage"
+    [(ngModel)]="pagination.currentPage"
+    (pageChanged)="pageChanged($event)"
+    previousText="&lsaquo;"
+    nextText="&rsaquo;"
+    firstText="&laquo;"
+    lastText="&raquo;"
+    >
+  
+  </pagination>
+  </div>
+</body>
